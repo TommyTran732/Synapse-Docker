@@ -12,7 +12,7 @@
 # License for the specific language governing permissions and limitations under
 # the License.
 
-ARG SYNAPSE_VERSION=1.99.0
+ARG SYNAPSE_VERSION=1.110.0rc3
 ARG PYTHON_VERSION=3.11
 ARG HARDENED_MALLOC_VERSION=11
 ARG UID=991
